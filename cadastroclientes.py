@@ -71,7 +71,7 @@ def mostrarClientes():
 def menu():
     while True:
         print("\n0. Sair do programa")
-        print("\n1. Cadastrar usuário")
+        print("1. Cadastrar usuário")
         print("2. Mostrar dados de um cliente")
         print("3. Mostrar todos os clientes")
         print("4. Sair")
