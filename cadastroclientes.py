@@ -94,6 +94,7 @@ def menu():
                 print("Opção inválida. Tente novamente.")
         except ValueError:
             print("Por favor, insira um número válido.")
+    
 
-
+menu()
 
